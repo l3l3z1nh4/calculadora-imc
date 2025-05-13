@@ -1,0 +1,14 @@
+1.Crie um projeto utilizando ReactJS;
+Este projeto será basicamente um formulário, contendo os campos: 
+altura
+peso;
+2. A partir dessas informações calcule o IMC;
+3. Retorne o IMC e a classificação na tabela;
+
+imc = peso / altura²
+
+2 input
+
+resultado do cáclculo 
+
++ tabela com valores 

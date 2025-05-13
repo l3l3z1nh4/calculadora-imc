@@ -1,0 +1,23 @@
+
+.tr{
+    border-bottom: 1px solid black;
+}
+.imcAbaixo{
+    background-color: yellow;
+}
+
+.imcNormal{
+    background-color: rgb(157, 255, 0);
+}
+.imcSobrepeso{
+    background-color: yellow;
+}
+.imcObesidade1{
+    background-color: rgb(255, 153, 0);
+}
+.imcObesidade2{
+    background-color: rgb(255, 60, 0);
+}
+.imcObesidade3{
+    background-color: rgb(215, 0, 0);
+}
